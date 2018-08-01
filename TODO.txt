@@ -1,0 +1,4 @@
+- Remove code to get data
+- Run until completion / convergence
+- Write a good readme (with gif)
+- Write code for WGAN
